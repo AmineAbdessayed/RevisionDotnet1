@@ -1,0 +1,96 @@
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Abir Hbecha\Pictures\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET2022-2023\Repo-1Semestre\Nouveau dossier (2)\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET2022-2023\Repo-1Semestre\Révision\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET 23-24\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET 23-24\Examen\ExamenImp+Entities\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET 23-24\Revision\Examen\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\.NET 23-24\S2\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\amine\Desktop\Ghodwa\ExamenImp\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
